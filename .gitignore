@@ -38,3 +38,9 @@ ENV/
 # Cache
 .cache/
 .transformers_cache/
+
+# Sample output files
+output/
+results/
+*.json
+*.csv
